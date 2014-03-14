@@ -1,0 +1,1 @@
+cmd_/home/bing/program/netlink/5/nl_kern.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-40-generic/scripts/module-common.lds --build-id  -o /home/bing/program/netlink/5/nl_kern.ko /home/bing/program/netlink/5/nl_kern.o /home/bing/program/netlink/5/nl_kern.mod.o

@@ -1,0 +1,1 @@
+cmd_/home/bing/program/demodev/demo_chr_dev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.5.0-40-generic/scripts/module-common.lds --build-id  -o /home/bing/program/demodev/demo_chr_dev.ko /home/bing/program/demodev/demo_chr_dev.o /home/bing/program/demodev/demo_chr_dev.mod.o
